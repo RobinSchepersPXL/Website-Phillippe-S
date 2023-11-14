@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #E3EEEF;
+}
+nav{
+
+}
+h1{
+    font-family: 'Archivo Black', fantasy;
+    font-size: 100px;
+    color: #30393A;
+    position: absolute;
+    left: calc(100% - 1250px);
+    top: 600px;
+    text-decoration: underline #C4560A;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+
+#menu-image{
+    width: 50px;
+    height: auto;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+img{
+   width: 1000px;
+    height: auto;
+}
+#foto-schepers{
+    position: absolute;
+
+    top: 300px;
+    right: calc(100% - 1250px);
+    box-shadow:
+            -50px -50px 0 -40px #C4560A,
+            50px 50px 0 -40px #C4560A;
+
+}
